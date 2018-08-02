@@ -6,7 +6,7 @@ def fizzbuzz(int)
     "Fizz"
   else if int % 5 == 0 
     "Buzz"
-  else int % 15 == 0
+  else if int % 15 == 0
     end
 end
 end 
